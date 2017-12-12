@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Primes
+comment1.params=length
+comment1.target=java.util.ArrayList\ generatePrimeList(int)
+comment2.params=input
+comment2.target=int\ indexOf(int)
+comment3.params=index
+comment3.target=int\ find(int)
+numComments=4

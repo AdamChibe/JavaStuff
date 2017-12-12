@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Generator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Generator\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Generator()
+comment3.params=maxA\ maxB
+comment3.target=java.util.ArrayList\ generateAllTriples(int,\ int)
+comment4.params=maxA\ maxB
+comment4.target=java.util.ArrayList\ generatePrimeTriples(int,\ int)
+comment5.params=a
+comment5.target=void\ printTriangleList(java.util.ArrayList)
+numComments=6
